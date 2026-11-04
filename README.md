@@ -1,5 +1,7 @@
 # Animated Photo Frame
 
+[![Discord](https://img.shields.io/discord/754001738184392704?logo=discord&label=Discord)](https://discord.skerritt.blog)
+
 A Plasma 6 plasmoid that works like KDE's Picture Frame widget, but also plays animated GIFs instead of showing them as static frames.
 
 ## Features
